@@ -1,0 +1,1 @@
+"homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
