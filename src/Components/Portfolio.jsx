@@ -31,29 +31,49 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Web Scraping website. 👩🏻‍💻",
+    description: "Collaborated on an application that compares prices of your selected product and helps you choose the best and cheapest to buy smartly. Implements web-scraping, API creation, full stack development using Next.js.",
+    url: "https://github.com/soumytiwari/prices.co",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Food Delivery App 🍔 (OrderIt)",
+    description: "Created a food delivery app using MERN stack. Shows my skills in full stack development, MERN stack development, frontend development, and Web Development.",
+    url: "https://github.com/soumytiwari/OrderIt",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "SMS Prdictor 📱",
+    description: "Created an application for SMS prediction. Shows my skills in RDBMS. Mainly implements DBMS concepts.",
+    url: "https://github.com/soumytiwari/SMS_predictor",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Task Management App 📝",
+    description: "Created a task management app using MERN stack and node.js from scratch. Shows my skills in backend development, API creation, performing CRUD operations, using MongoDB as well as postman.",
+    url: "https://github.com/soumytiwari/Task-Treck",
   },
+  // {
+  //   title: "10 Things To Know About Azure Static Web Apps 🎉",
+  //   description:
+  //     "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+  //   url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+  // },
+  // {
+  //   title: "Web Development for Beginners",
+  //   description:
+  //     "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+  //   url: "https://github.com/microsoft/web-dev-for-beginners",
+  // },
+  // {
+  //   title: "My Resume Site",
+  //   description:
+  //     "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+  //   url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  // },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {
